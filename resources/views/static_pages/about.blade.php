@@ -1,0 +1,9 @@
+@extends('layouts.default')
+
+@section('title')
+关于
+@endsection
+
+@section('content')
+<h1>关于页</h1>
+@endsection
